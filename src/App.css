@@ -1,3 +1,18 @@
+
+.container {
+  display: flex;
+  margin: 150px;
+  justify-content: space-evenly;
+  margin: auto; 
+  padding-top: 20px;
+
+}
+
+.Titles {
+  justify-content: right;
+  
+}
+
 .App {
   text-align: center;
 }
