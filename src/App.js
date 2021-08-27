@@ -8,11 +8,15 @@ import {
   Switch,
 } from 'react-router-dom';
 
-import Home from './Pages/Home/Home';
-import About from './Pages/About/About';
-import Contact from './Pages/Contact/Contacts';
-import Service from './Pages/Service/Service';
+
+
+
+import Home from './Components/Pages/Home/Home';
+import About from './Components/Pages/About/About';
+import Contact from './Components/Pages/Contact/Contacts';
+import Service from './Components/Pages/Service/Service';
 import Navbar from './Components/Navbar/Navbars';
+
 
 
 //move to other pages//

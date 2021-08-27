@@ -1,10 +1,13 @@
 import React from 'react';
 
-const Service = () => {
+ 
+
+
+const Home = () => {
     return (
         <div className="container">
             <h1 className="text-centre" style={{paddingTop: "30%"}}>
-                Services
+                Home
                 <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, 
                 pulvinar facilisis justo mollis, auctor consequat urna. Morbi a bibendum metus. 
                 Donec scelerisque sollicitudin enim eu venenatis. Duis tincidunt laoreet ex, 
@@ -16,9 +19,8 @@ const Service = () => {
                 Phasellus bibendum turpis ut ipsum egestas, sed sollicitudin elit convallis. 
                 Cras pharetra mi tristique sapien vestibulum lobortis. Nam eget bibendum metus, 
                 non dictum mauris. Nulla at tellus sagittis, viverra est a, bibendum metus.</p>
-
             </h1>
         </div>
     )
 }
-export default Service; 
+export default Home; 
